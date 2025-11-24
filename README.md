@@ -1,4 +1,4 @@
-Skeleton Tracker (Webcam + Optional Phone)
+Skeleton Tracker (DroidCam Only)
 
 Real-time skeleton tracker using your PC webcam (phone optional). It detects head, neck, torso, arms, hands, legs, and feet, drawing connected cyan lines and red landmarks. Fully browser-based, with selectable webcams, smooth tracking, and lightweight performance.
 
