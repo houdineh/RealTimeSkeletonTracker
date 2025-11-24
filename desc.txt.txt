@@ -1,0 +1,1 @@
+Project for using local webcam or DroidCam Video, that tracks skeleton, ligaments, and movements in real time.
